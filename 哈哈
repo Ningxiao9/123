@@ -13,6 +13,7 @@
 	}
 	else if(score>=75)
     {
+
 	   document.write("0000!");
 	}
 	else if(score>=60)
@@ -22,11 +23,12 @@
     else
 	{
        document.write("4444");
+
 	}
   }
   </script>
 </head>
-<body>
+<body bgcolor="red">
     <input name="button" type="button" onClick="rec()" value="点击我，对成绩做评价!" />
 </body>
 </html>
