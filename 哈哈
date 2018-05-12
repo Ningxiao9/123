@@ -13,15 +13,15 @@
 	}
 	else if(score>=75)
     {
-	   document.write("不错吆!");
+	   document.write("0000!");
 	}
 	else if(score>=60)
     {
-	   document.write("要加油!");
+	   document.write("22222!");
     }
     else
 	{
-       document.write("要努力了!");
+       document.write("4444");
 	}
   }
   </script>
