@@ -13,20 +13,20 @@
 	}
 	else if(score>=75)
     {
-	   document.write("不错吆!");
+	   document.write("777!");
 	}
 	else if(score>=60)
     {
-	   document.write("要加油!");
+	   document.write("888!");
     }
     else
 	{
-       document.write("要努力了!");
+       document.write("999!");
 	}
   }
   </script>
 </head>
-<body>
+<body bgcolor="blue">
     <input name="button" type="button" onClick="rec()" value="点击我，对成绩做评价!" />
 </body>
 </html>
